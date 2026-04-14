@@ -2,8 +2,6 @@
 
 A comprehensive Restaurant Management System built with Oracle APEX (Application Express) for managing restaurant operations including customer management, menu management, order processing, table reservations, employee management, and user authentication.
 
-**Live Demo:** [https://oracleapex.com/ords/r/158156327795239139129/rms/](https://oracleapex.com/ords/r/158156327795239139129/rms/)
-
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
