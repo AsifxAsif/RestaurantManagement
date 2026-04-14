@@ -2,6 +2,8 @@
 
 A comprehensive Restaurant Management System built with Oracle APEX (Application Express) for managing restaurant operations including customer management, menu management, order processing, table reservations, employee management, and user authentication.
 
+**Live Demo:** [https://oracleapex.com/ords/r/158156327795239139129/rms/](https://oracleapex.com/ords/r/158156327795239139129/rms/)
+
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
@@ -21,6 +23,8 @@ A comprehensive Restaurant Management System built with Oracle APEX (Application
 ## Overview
 
 RMS (Restaurant Management System) is a full-featured web application that helps restaurants manage their daily operations efficiently. The system provides an intuitive interface for managing customers, menu items, orders, table reservations, and employee information.
+
+👉 **Try it live:** [https://oracleapex.com/ords/r/158156327795239139129/rms/](https://oracleapex.com/ords/r/158156327795239139129/rms/)
 
 ## Features
 
@@ -235,8 +239,9 @@ Enable debugging in APEX:
 
 For issues, questions, or contributions:
 
-- **GitHub Issues**: Create an issue in the repository
-- **Documentation**: Refer to Oracle APEX documentation for platform-specific issues
+- **Live Demo:** [https://oracleapex.com/ords/r/158156327795239139129/rms/](https://oracleapex.com/ords/r/158156327795239139129/rms/)
+- **GitHub Issues:** Create an issue in the repository
+- **Documentation:** Refer to Oracle APEX documentation for platform-specific issues
 
 ## License
 
@@ -251,4 +256,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Version:** 1.0  
 **Last Updated:** 2024  
-**Application ID:** 128755
+**Application ID:** 128755  
+**Live URL:** [https://oracleapex.com/ords/r/158156327795239139129/rms/](https://oracleapex.com/ords/r/158156327795239139129/rms/)
