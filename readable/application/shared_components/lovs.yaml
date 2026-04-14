@@ -1,0 +1,80 @@
+---
+- # ====== List of Values: CUSTOMER.CUSTOMER_NAME ==============
+  id: 113703482014373017869
+  identification: 
+    name: CUSTOMER.CUSTOMER_NAME
+
+  subscription: 
+    version-number: 15756979125862
+
+  source: 
+    location: Local Database
+    type: Table / View
+    table-owner: Parsing Schema
+    table-name: CUSTOMER
+
+  column-mapping: 
+    return: CUSTOMER_ID
+    display: CUSTOMER_NAME
+    default-sort: CUSTOMER_NAME
+    sort-direction: Ascending (Nulls Last)
+
+- # ====== List of Values: RESTAURANT_TABLE.TABLE_NUMBER =======
+  id: 113715072212778411725
+  identification: 
+    name: RESTAURANT_TABLE.TABLE_NUMBER
+
+  subscription: 
+    version-number: 15756979125885
+
+  source: 
+    location: Local Database
+    type: Table / View
+    table-owner: Parsing Schema
+    table-name: RESTAURANT_TABLE
+
+  column-mapping: 
+    return: TABLE_NUMBER
+    default-sort: TABLE_NUMBER
+    sort-direction: Ascending (Nulls Last)
+
+- # ====== List of Values: ORDERS.ORDER_TIME ===================
+  id: 113717289383505175153
+  identification: 
+    name: ORDERS.ORDER_TIME
+
+  subscription: 
+    version-number: 15756979125880
+
+  source: 
+    location: Local Database
+    type: Table / View
+    table-owner: Parsing Schema
+    table-name: ORDERS
+
+  column-mapping: 
+    return: ORDER_ID
+    display: ORDER_TIME
+    default-sort: ORDER_TIME
+    sort-direction: Ascending (Nulls Last)
+
+- # ====== List of Values: MENU.ITEM_NAME ======================
+  id: 113717289598425175153
+  identification: 
+    name: MENU.ITEM_NAME
+
+  subscription: 
+    version-number: 15756979125869
+
+  source: 
+    location: Local Database
+    type: Table / View
+    table-owner: Parsing Schema
+    table-name: MENU
+
+  column-mapping: 
+    return: ITEM_ID
+    display: ITEM_ID
+    default-sort: ITEM_NAME
+    sort-direction: Ascending (Nulls Last)
+
